@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.vscode/
+.idea/
+
+# Checkpoints (large binary files)
+checkpoint/
+
+# PDF files
+*.pdf
+
+# Legacy code
+_legacy/
+
+# Claude
+.claude/
