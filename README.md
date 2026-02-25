@@ -207,5 +207,5 @@ python Grad_RAM/Grad_RAM_Vdot.py     # Grad-RAM analysis / Grad-RAM 분석
 | OS / 운영체제 | macOS (arm64) |
 | Language / 언어 | Python 3.9.18 |
 | Framework / 프레임워크 | TensorFlow 2.9.0 / Keras 2.9.0 |
-| RAM usage during inference / 추론 시 RAM 사용량 | ~283 MB (Peak RSS) |
+| RAM usage during inference / 추론 시 RAM 사용량 | ~411 MB (Peak RSS) |
 | Model weights on disk / 모델 가중치 디스크 크기 | ~2.86 MB (3 models combined) |
